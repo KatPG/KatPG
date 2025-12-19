@@ -1,24 +1,35 @@
-## Hola, soy Katherine
+## 👋 Hola, soy Katherine
 
-Analista de datos con formación en Ingeniería Química y experiencia en el análisis de datos técnicos, industriales y ambientales. Trabajo con Python, SQL y Power BI para la limpieza, exploración y visualización de datos, apoyando el análisis y la toma de decisiones en entornos técnicos.
+Analista de datos con formación en Ingeniería Química y experiencia en el trabajo con datos técnicos, industriales y ambientales. Utilizo Python, SQL y Power BI para preparar, explorar y visualizar información, apoyando la comprensión y el análisis en contextos técnicos.
 
-### En qué trabajo:
-- Limpieza, transformación y estandarización de datos
-- Análisis exploratorio de datos (EDA)
-- Análisis de datos técnicos e industriales
+### 🔍 Áreas de trabajo
+- Preparación, limpieza y estandarización de datos
+- Exploración y análisis de datasets técnicos e industriales
+- Análisis de datos ambientales y de procesos
 - Visualización y comunicación de resultados
 
-### Herramientas
-- Python (pandas, numpy, matplotlib, Seaborn)
+### 🛠️ Stack técnico
+- Python (pandas, numpy, matplotlib)
 - SQL
 - Power BI
 - Excel
 
-### Proyectos
-- **Análisis Exploratorio y Predictivo de Calidad del Agua**: Proyecto orientado a evaluar la potabilidad de cuerpos de agua mediante análisis exploratorio y modelado predictivo. [Ver Repositorio](https://github.com/KatPG/Python-projects/blob/main/Calidad_del_Agua/analisis_exploratorio_calidad_del_agua.ipynb)
-- **Analisis de Rotación de Empleados**:Proyecto end-to-end para identificar factores clave de la rotación de personal mediante limpieza, EDA y modelado predictivo. [Ver Repositorio](https://github.com/KatPG/Analisis_de_Rotacion_de_Empleados/blob/main/README.md)
-- **Análisis de Métodos de Venta**: Proyecto de análisis orientado a evaluar la efectividad de distintos métodos de venta de una nueva línea de productos.[Ver Repositorio](https://github.com/KatPG/Proyecto-de-Certificacion-Data-Analyst-DataCamp-)
-- **Predicción de costos de seguros médicos (EE. UU.)**: análisis y modelado supervisado para estimar costos a partir de variables demográficas y de riesgo. [Ver repositorio](https://github.com/KatPG/Python-projects/tree/main/Seguros_Medicos)
+### 📊 Proyectos destacados
+- **Calidad del agua: exploración y modelado predictivo**  
+  Evaluación de la potabilidad de cuerpos de agua mediante análisis exploratorio y modelos supervisados.  
+  👉 [Ver repositorio](https://github.com/KatPG/Python-projects/blob/main/Calidad_del_Agua/analisis_exploratorio_calidad_del_agua.ipynb)
 
-### Sobre este perfil
-Interesada en roles de análisis de datos donde la comprensión de procesos y el rigor técnico sean clave.
+- **Costos de seguros médicos en EE. UU.**  
+  Modelado supervisado para estimar costos a partir de variables demográficas y de riesgo, evaluado con R² y RMSE.  
+  👉 [Ver repositorio](https://github.com/KatPG/Python-projects/tree/main/Seguros_Medicos)
+
+- **Rotación de empleados: análisis end-to-end**  
+  Identificación de factores asociados a la rotación mediante limpieza de datos, exploración y modelado.  
+  👉 [Ver repositorio](https://github.com/KatPG/Analisis_de_Rotacion_de_Empleados/blob/main/README.md)
+
+- **Evaluación de métodos de venta**  
+  Comparación de la efectividad de distintos enfoques comerciales para una nueva línea de productos.  
+  👉 [Ver repositorio](https://github.com/KatPG/Proyecto-de-Certificacion-Data-Analyst-DataCamp-)
+
+### 🔧 Enfoque
+Trabajo orientado al análisis de datos técnicos, con énfasis en comprensión de procesos y rigor analítico.
