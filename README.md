@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Katherine
 
-Analista de datos con formación en Ingeniería Química y experiencia en el trabajo con datos técnicos, industriales y ambientales. Utilizo Python, SQL y Power BI para preparar, explorar y visualizar información, apoyando la comprensión y el análisis en contextos técnicos.
+Analista de procesos con formación en Ingeniería Química y experiencia en el trabajo con datos técnicos, industriales y ambientales. Utilizo Python, SQL y Power BI para preparar, explorar y visualizar información, apoyando la comprensión y el análisis en contextos técnicos.
 
 ### 🔍 Áreas de trabajo
 - Preparación, limpieza y estandarización de datos
@@ -15,6 +15,10 @@ Analista de datos con formación en Ingeniería Química y experiencia en el tra
 - Excel
 
 ### 📊 Proyectos destacados
+- **Operación PTAR: Diagnóstico de carga y estabilidad del proceso**
+  Evaluación de la eficiencia operativa mediante la transformación de parámetros a unidades de carga ($kg/d$) y clasificación de eventos para identificar fallas sistémicas.
+  👉 [Ver repositorio](https://github.com/KatPG/diagnostico-operativo-ptar))
+
 - **Calidad del agua: exploración y modelado predictivo**  
   Evaluación de la potabilidad de cuerpos de agua mediante análisis exploratorio y modelos supervisados.  
   👉 [Ver repositorio](https://github.com/KatPG/Python-projects/blob/main/Calidad_del_Agua/analisis_exploratorio_calidad_del_agua.ipynb)
@@ -32,4 +36,4 @@ Analista de datos con formación en Ingeniería Química y experiencia en el tra
   👉 [Ver repositorio](https://github.com/KatPG/Proyecto-de-Certificacion-Data-Analyst-DataCamp-)
 
 ### 🔧 Enfoque
-Trabajo orientado al análisis de datos técnicos, con énfasis en comprensión de procesos y rigor analítico.
+Mi enfoque integra el rigor de la Ingeniería Química con el análisis de datos avanzado. Busco transformar datos técnicos e industriales en diagnósticos operativos precisos que faciliten la toma de decisiones basada en evidencia.
