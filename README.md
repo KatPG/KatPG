@@ -16,7 +16,6 @@ Analista de procesos con formación en Ingeniería Química y experiencia en el 
 
 ### 📊 Proyectos destacados
 - **Operación PTAR: Diagnóstico de carga y estabilidad del proceso**
-  
   Evaluación de la eficiencia operativa mediante la transformación de parámetros a unidades de carga y clasificación de eventos para identificar fallas sistémicas.
   
   👉 [Ver repositorio](https://github.com/KatPG/diagnostico-operativo-ptar)
