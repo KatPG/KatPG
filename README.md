@@ -16,10 +16,10 @@ Analista de procesos con formación en Ingeniería Química y experiencia en el 
 
 ### 📊 Proyectos destacados
 - **Operación PTAR: Diagnóstico de carga y estabilidad del proceso**
-  Evaluación de la eficiencia operativa mediante la transformación de parámetros a unidades de carga y clasificación de eventos para identificar fallas sistémicas.
+  Evaluación de la eficiencia operativa mediante la transformación de parámetros a unidades de carga y clasificación de eventos para     identificar fallas sistémicas.
   👉 [Ver repositorio](https://github.com/KatPG/diagnostico-operativo-ptar)
 
-- **Calidad del agua: exploración y modelado predictivo**  
+- **Calidad del agua: exploración y modelado predictivo**
   Evaluación de la potabilidad de cuerpos de agua mediante análisis exploratorio y modelos supervisados.  
   👉 [Ver repositorio](https://github.com/KatPG/Python-projects/blob/main/Calidad_del_Agua/analisis_exploratorio_calidad_del_agua.ipynb)
 
