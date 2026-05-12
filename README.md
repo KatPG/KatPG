@@ -23,6 +23,7 @@ Analista de procesos con formación en Ingeniería Química y experiencia en el 
   Evaluación de la potabilidad de cuerpos de agua mediante análisis exploratorio y modelos supervisados.  
   👉 [Ver repositorio](https://github.com/KatPG/Python-projects/blob/main/Calidad_del_Agua/analisis_exploratorio_calidad_del_agua.ipynb)
 
+### 📊 Otros Análisis y Modelado:
 - **Costos de seguros médicos en EE. UU.**  
   Modelado supervisado para estimar costos a partir de variables demográficas y de riesgo, evaluado con R² y RMSE.  
   👉 [Ver repositorio](https://github.com/KatPG/Python-projects/tree/main/Seguros_Medicos)
